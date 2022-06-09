@@ -6,8 +6,9 @@ This repository contains basics of React implemented as a part of the course fro
 More implementations on the way!
 
 ## Tour guide
-| Concept Covered | Location |
-| ---------------|-------|
-| Implementation Without JSX | [Code](../master/00-without-jsx) |
-| Implementation With JSX | [Code](../master/01-with-jsx) |
-| Props and Events | [Code](../master/02-props-events) |
+
+1. [Implementation Without JSX](../master/00-without-jsx)
+2. [Implementation With JSX](../master/01-with-jsx)
+3. [Props and Events](../master/02-props-events)
+4. [State and Lifecycle](../master/03-state-lifecycle)
+5. 
