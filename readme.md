@@ -11,4 +11,5 @@ More implementations on the way!
 2. [Implementation With JSX](../master/01-with-jsx)
 3. [Props and Events](../master/02-props-events)
 4. [State and Lifecycle](../master/03-state-lifecycle)
-5. 
+5. [Styling](../master/04-styling)
+6. [Landing Page](../master/05-landing-page)

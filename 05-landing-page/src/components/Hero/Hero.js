@@ -18,7 +18,7 @@ const Wrapper = styled.div`
     max-width: 800px;
     display: flex;
     flex-direction: column;
-    align-item: center;
+    align-items: center;
 `
 
 const Slogan = styled.h1`
@@ -35,8 +35,8 @@ const Text = styled.p`
     margin: 0;
     font-size: 1.25rem;
     &:nth-of-type(1) {
-        margin-botton: 0.5rem;
-        
+        margin-bottom: 0.5rem;
+        margin-top: 1rem;
     }
 `
 
